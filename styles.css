@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Shadows+Into+Light&display=swap');
+
+
+
+
+
+
+
+
+
+
+#title {
+    margin-top: 30px;
+}
+
+
+body {
+   
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    background-color: #3b444b;
+}
+.ContactMe {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    background-color: #3b444b;
+    height: 40%;
+    
+    
+
+}
+
+a {
+    color: white!important;
+}
+
+a:hover{
+    color: black!important;
+}
+
+span{
+    font-size: 50px;
+    font-weight: lighter;
+    font-family: 'Shadows Into Light', cursive;
+    border-top: 1px solid white;
+ 
+}
+
+
+.navbar-brand {
+
+    line-height: 1.5rem;
+    
+}
+
+
+.about {
+    padding: 50px;
+    margin-top: 2rem;
+   
+}
+
+.primary{
+    width: 80%;
+    margin-top: 20px;
+}
+
+
+.navbar-nav .nav-link {
+    margin: 10px 50px 0px 80px;
+    padding: 20px;
+}
+
+
+
+
+     .sec2 {
+        font-size: 42px;
+        background: -webkit-linear-gradient(#00d2ff, #928DAB);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        
+      
+    }
+
+   .btn {
+
+    border: 1px rgb(19, 209, 243) solid;
+   }
+
+   .skills  {
+       text-align: center;
+      
+   }
+
+   .webdev {
+      height: 25%;
+      width: 80%;
+      border: 2px solid gray;
+      border-radius: 15px;
+
+   }
+
+   .webdes{
+    height: 25%;
+    width: 80%;
+    border: 2px solid gray;
+    border-radius: 15px;
+    
+
+   }
+
+   p{
+       font-weight: bold;
+       line-height: 2rem;
+   }
+
+.sec3 {
+    font-size: 52px;
+    background: -webkit-linear-gradient(#00d2ff, #928DAB);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+     
+}
+
+body::-webkit-scrollbar {
+    width: 5px;
+  }
+   
+  body::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  }
+   
+  body::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 1px solid slategrey;
+  }
+
+
+  .card {
+       border-radius: 15px ;
+       color: #3b444b;
+  }
+
+
+  .projects{
+      text-align: center;
+      font-size: 52px;
+      background: -webkit-linear-gradient(#00d2ff, #928DAB);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      padding: 0;
+      margin-bottom: 4rem;
+     }
+
+
+      .bi{
+          margin-left: 10px;
+          font-size: larger;
+      }
+
+
+      .icons {
+          padding-top: 9rem;
+      }
